@@ -1,0 +1,28 @@
+.screen-header__title {
+  font-size: 30px;
+}
+.screen-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.screen-header__icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.screen-header__icons span {
+  margin: 10px 8px;
+}
+
+.shopping-bar__title {
+  font-size: 20px;
+}
+.shopping-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}

@@ -1,0 +1,21 @@
+.store__info {
+  font-weight: 900;
+  margin: 20px 0;
+  font-size: 40px;
+}
+.stores {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.sell {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+  margin-bottom: 30px;
+}
+.hr2 {
+  margin: 30px;
+}

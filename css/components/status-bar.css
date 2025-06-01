@@ -1,0 +1,19 @@
+.status-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 3px;
+  align-items: center;
+}
+
+.status-bar__column-right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.signalicon {
+  padding-right: 3px;
+}
+.wifiicon {
+  padding-right: 8px;
+}
